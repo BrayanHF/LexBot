@@ -16,6 +16,8 @@ La aplicación está pensada para ayudar a los ciudadanos colombianos a **resolv
   - DeepSeek API
   - Solo una API activa a la vez
   - Existe un endpoint que permite cambiar el proveedor de IA en cualquier momento, incluso mientras la aplicación está en ejecución
+ 
+- Los documentos generados son entregados directamente como PDF
 
 - Cada consulta a la IA realiza búsquedas en internet usando la **API de Tavily**
 
